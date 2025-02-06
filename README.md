@@ -4,4 +4,5 @@ A simple and interactive falling sand simulation built using Java. This simulati
 - Multiple materials: Sand, Water, Solid, Smoke
 - Interaction between materials
 - Ability to place materials
+## Example
 ![](showcase.gif)
